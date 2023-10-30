@@ -20,6 +20,7 @@ Here are some ideas to get you started:
     <p>-Mais interessado em Python (Apesar de ter estudado um pouco de C)</p>
     <p>-Você pode me ajudar me indicando cursos rsrs</p>
     <p>-Pronomes: Ele/Dele</p>
+    <p href="https://www.educamaisbrasil.com.br/enem/biologia/banana">-Bananas são, em termos botânicos, ervas.</p>
   </div>
   <div class="flex-item">
     <img src="./volibear.gif" alt="Volibear" height="180em" width="180em">
