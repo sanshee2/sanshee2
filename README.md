@@ -14,14 +14,15 @@ Here are some ideas to get you started:
 -->
 <div class="flex-container">
   <div class="flex-item">
-    <h1>Morgen!</h1>
-    <p>-Atualmente interessado na área de dados.</p>
-    <p>(30/10) - Fazendo atualmente um curso de dados da plataforma Ada</p>
-    <p>-Mais interessado em Python (Apesar de ter estudado um pouco de C)</p>
-    <p>-Você pode me ajudar me indicando cursos rsrs</p>
-    <p>-Pronomes: Ele/Dele</p>
-    <p href="https://www.educamaisbrasil.com.br/enem/biologia/banana">-Bananas são, em termos botânicos, ervas.</p>
-  </div>
+    <h1>✌️Morgen!</h1>
+    <p>🎲-Atualmente interessado na área de dados.</p>
+    <p>📚(30/10) - Fazendo atualmente um curso de dados da plataforma Ada</p>
+    <p>🐍-Mais interessado em Python (Apesar de ter estudado um pouco de C)</p>
+    <p>🔎-Você pode me ajudar me indicando cursos rsrs</p>
+    <p>👌-Pronomes: Ele/Dele</p>
+    <p> <a href="https://www.educamaisbrasil.com.br/enem/biologia/banana" style="text-decoration: none" alt="Não acredita?">⁉️ Bananas não são frutos. Em termos botânicos, são mais como ervas. </a> </p>
+  </div
+    [⁉️ Bananas não são frutos. Em termos botânicos, são mais como ervas. ](https://www.educamaisbrasil.com.br/enem/biologia/banana)
   <div class="flex-item">
     <img src="./volibear.gif" alt="Volibear" height="180em" width="180em">
   </div>
