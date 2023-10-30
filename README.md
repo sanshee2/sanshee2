@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Morgen!
-Atualmente interessado na área de dados.
-30/10 - Fazendo atualmente um curso de dados da plataforma Ada;
-Mais interessado em Python (Apesar de ter estudado um pouco de C)
-Você pode me ajudar me indicando cursos rsrs
-Pronomes: Ele/Dele
+-Atualmente interessado na área de dados.
+-30/10 - Fazendo atualmente um curso de dados da plataforma Ada
+-Mais interessado em Python (Apesar de ter estudado um pouco de C)
+-Você pode me ajudar me indicando cursos rsrs
+-Pronomes: Ele/Dele
 <div>
   <a href="https://www.linkedin.com/in/gabriel-lima-9b4431270/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanshee2&show_icons=true&theme=dark"/>
