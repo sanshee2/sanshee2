@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 -Pronomes: Ele/Dele
 <div>
   <a href="https://www.linkedin.com/in/gabriel-lima-9b4431270/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanshee2&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanshee2&show_icons=true&theme=tokyonight"/>
   
 </div>
