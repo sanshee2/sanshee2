@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
 <h1> Morgen! </h1>
 -Atualmente interessado na área de dados. <br>
 -30/10 - Fazendo atualmente um curso de dados da plataforma Ada  <br>
@@ -19,9 +20,11 @@ Here are some ideas to get you started:
 -Você pode me ajudar me indicando cursos rsrs  <br>
 -Pronomes: Ele/Dele  <br>
 <br>
+<img height="180em" scr="https://github.com/sanshee2/sanshee2/blob/main/volibear.gif"
+</div>
 <div>
   <a href="https://www.linkedin.com/in/gabriel-lima-9b4431270/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanshee2&show_icons=true&theme=tokyonight&hide=issues"/>
-  <img height="180em" scr="https://preview.redd.it/hxiif5gzuwnb1.gif?width=512&format=mp4&s=0e1018d25e2ca0d53824d7f09f3f756febde93a6"/>
+  <img height="180em" scr="https://github.com/sanshee2/sanshee2/blob/main/volibear.gif"
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight"/>  
 </div>
