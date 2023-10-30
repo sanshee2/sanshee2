@@ -20,11 +20,10 @@ Here are some ideas to get you started:
 -Você pode me ajudar me indicando cursos rsrs  <br>
 -Pronomes: Ele/Dele  <br>
 <br>
-<img height="180em" scr="https://github.com/sanshee2/sanshee2/blob/main/volibear.gif"
 </div>
-<div>
+<div style="display: inline_block">
   <a href="https://www.linkedin.com/in/gabriel-lima-9b4431270/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanshee2&show_icons=true&theme=tokyonight&hide=issues"/>
-  <img height="180em" scr="https://github.com/sanshee2/sanshee2/blob/main/volibear.gif"
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight"/>  
+  <img height="180em" img align="left"src="https://github-readme-stats.vercel.app/api?username=sanshee2&show_icons=true&theme=tokyonight&hide=issues"/>
+  <img height="180em" align="center"src="./volibear.gif"/>
+  <img height="180em" align="right"src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight"/>  
 </div>
