@@ -12,18 +12,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
-<h1> Morgen! </h1>
--Atualmente interessado na área de dados. <br>
--30/10 - Fazendo atualmente um curso de dados da plataforma Ada  <br>
--Mais interessado em Python (Apesar de ter estudado um pouco de C)  <br>
--Você pode me ajudar me indicando cursos rsrs  <br>
--Pronomes: Ele/Dele  <br>
-<br>
+<div class="flex-container">
+  <div class="flex-item">
+    <h1>Morgen!</h1>
+    <p>-Atualmente interessado na área de dados.</p>
+    <p>(30/10) - Fazendo atualmente um curso de dados da plataforma Ada</p>
+    <p>-Mais interessado em Python (Apesar de ter estudado um pouco de C)</p>
+    <p>-Você pode me ajudar me indicando cursos rsrs</p>
+    <p>-Pronomes: Ele/Dele</p>
+  </div>
+  <div class="flex-item">
+    <img src="./volibear.gif" alt="Volibear" height="180em" width="180em">
+  </div>
 </div>
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/gabriel-lima-9b4431270/">
   <img height="180em" img align="left"src="https://github-readme-stats.vercel.app/api?username=sanshee2&show_icons=true&theme=tokyonight&hide=issues"/>
-  <img height="180em" align="center"src="./volibear.gif"/>
   <img height="180em" align="right"src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight"/>  
 </div>
+
