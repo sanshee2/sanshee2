@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div class="flex-container">
   <div class="flex-item">
-    <h1>✌️Morgen!</h1>
+    <h1>✌️Opa, bão?</h1>
     <p>🎲-Atualmente interessado na área de dados.</p>
     <p>📚(30/10) - Fazendo atualmente um curso de dados da plataforma Ada</p>
     <p>🐍-Mais interessado em Python (Apesar de ter estudado um pouco de C)</p>
