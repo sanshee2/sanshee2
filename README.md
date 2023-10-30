@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Morgen!
+
+Atualmente interessado na área de dados.
+30/10 - Fazendo atualmente um curso de dados da plataforma Ada;
+Mais interessado em Python (Apesar de ter estudado um pouco de C)
+Você pode me ajudar me indicando cursos rsrs
+Pronomes: Ele/Dele
