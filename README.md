@@ -1,7 +1,7 @@
 <div class="flex-container">
   <div class="flex-item">
     <h1>✌️Opa, bão?</h1>
-  <body background ="./ghibli.gif">
+  <body background = "./kiki's.gif">
     <p>🎲-Atualmente interessado na área de dados.</p>
     <p>📚(30/10) - Fazendo atualmente um curso de dados da plataforma Ada</p>
     <p>🐍-Mais interessado em Python (Apesar de ter estudado um pouco de C)</p>
